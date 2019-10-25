@@ -1,0 +1,36 @@
+#ptable {
+  text-align: center;
+  background-color: rgb(225, 235, 227);
+  border-collapse: separate;
+  margin: auto;
+  font-family: Georgia, serif;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  margin: auto;
+}
+
+td {
+  font-size: 24px;
+  border: medium double rgb(97, 88, 167);
+  padding: 0 1%;
+  color: rgb(97, 89, 164);
+}
+
+th {
+  font-weight:bold;
+  font-size: 24px;
+  padding: 2% 0;
+  border: medium double rgb(97, 88, 167);
+  color: rgb(54, 53, 49);
+}
+
+body {
+  background-color: rgb(54, 53, 49);
+}
+
+.planet{
+  color: rgb(54, 53, 49);
+}
