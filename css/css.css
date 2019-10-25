@@ -1,3 +1,9 @@
+#source {
+  font-family: Georgia, serif;
+  font-size: 36;
+  color: white;
+}
+
 #ptable {
   text-align: center;
   background-color: rgb(225, 235, 227);
@@ -40,5 +46,6 @@ body {
   font-weight: bold;
   font-size: 36;
   text-align: center;
-  color: rgb(143, 128, 193)
+  color: rgb(143, 128, 193);
 }
+
